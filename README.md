@@ -1,4 +1,4 @@
-Python And Django Framework 
+Python
 
 Beginner to Expert Python.Start from the basics and go all the
  way to creating my own applications and games
@@ -41,24 +41,6 @@ Regular Expressions
 Comprehensions
 
 Modules
-
-
-*Django Framework With Building Projects:
-
-Django Web Framework, fundamentals of web applications.
- web applications using Python Django Web Framework.
-
-Build website and web applications
-
-HTML and CSS for front end web development
-
-Bootstrap for responsive web design
-
-Python
-
-Django for creating robust websites and web apps
-
-* BUILD A WEB APPLICATION USING  DJANGO FRAMEWORK
 
 
 
